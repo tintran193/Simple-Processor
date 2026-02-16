@@ -6,6 +6,13 @@ It is designed for educational purposes, demonstrating fundamental computer arch
 
 ## 🏗️ System Architecture & Block Diagram
 The system follows a standard structural design, separating the datapath from the control logic.
+<img width="900" height="709" alt="image" src="https://github.com/user-attachments/assets/316dd57f-3d1c-44a7-9176-c30340101209" />
+
+<img width="604" height="321" alt="image" src="https://github.com/user-attachments/assets/987f6aeb-f0a1-4e54-9d79-80c11efe482a" />
+
+<img width="657" height="237" alt="image" src="https://github.com/user-attachments/assets/11334b75-f605-4e62-ab20-9bed298046c6" />
+
+
 ## 🗂 File Structure
 `simproc.sv`: The top-level test environment connecting the PC, ROM, and Processor.
 
